@@ -1,5 +1,5 @@
 ## SunriseWasTaken 🥭
 
-Just here to code
+Hey, tinkering with random projects.
 
 Portfolio: [WIP]
