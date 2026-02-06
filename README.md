@@ -2,8 +2,6 @@
 
 Hey, tinkering with random projects.
 
-Portfolio: [WIP]
-
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SunriseWasTaken.SunriseWasTaken)](https://github.com/SunriseWasTaken)
 [![GitHub followers](https://img.shields.io/github/followers/SunriseWasTaken.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/SunriseWasTaken?tab=followers)
 
