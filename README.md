@@ -1,5 +1,3 @@
-## @SunriseWasTaken 🥭
-
 Hey, tinkering with random projects.
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SunriseWasTaken.SunriseWasTaken)](https://github.com/SunriseWasTaken)
